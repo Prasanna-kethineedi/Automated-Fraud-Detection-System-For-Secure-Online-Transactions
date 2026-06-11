@@ -26,8 +26,8 @@ This project migrates the original Python Streamlit prototype into a full-stack 
 
 Also available:
 
-- Username: `Ganesh`
-- Password: `ganesh123`
+- Username: `Prasanna`
+- Password: `prasanna123`
 
 ## Run MySQL
 
